@@ -1,0 +1,2 @@
+# dailydictation
+remove ads
